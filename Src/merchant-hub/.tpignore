@@ -1,0 +1,3 @@
+\Q/login/target/\E.*
+\Q/tesco-merchant-hub-theme/target/\E.*
+\Q/manage-tp-invite-portlet/target/\E.*
