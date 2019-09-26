@@ -1,4 +1,5 @@
 again a new test file created
 Practise session
 This is a test file
+Merge line 5
 new line in the file for testing stash command
