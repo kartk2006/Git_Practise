@@ -1,3 +1,4 @@
 again a new test file created
 Practise session
 This is a test file
+new line in the file for testing stash command
