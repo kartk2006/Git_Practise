@@ -3,4 +3,5 @@ Practise session
 This is a test file
 Merge line 5
 Merge line 4
+Merge line 6
 new line in the file for testing stash command
